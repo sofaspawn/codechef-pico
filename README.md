@@ -1,2 +1,3 @@
 # Writeups for Task 1
-![](progress.png)
+## Previous attempts as picoGYM
+![](personal_progress.png)
